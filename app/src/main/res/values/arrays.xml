@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="users_array">
+        <item>Muskan</item>
+        <item>Mahima</item>
+        <item>Anushka</item>
+        <item>Arpit</item>
+        <item>Apar</item>
+        <item>Abhishek</item>
+        <item>Roopal</item>
+        <item>Riya</item>
+        <item>Anmol</item>
+        <item>Priya</item>
+    </string-array>
+</resources>
